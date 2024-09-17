@@ -1,4 +1,4 @@
-👋 Hi, I’m @helencryer
+👋 Hi, I’m Helen
 
 👩🏻‍💻 I’m a junior software engineer based in the North-East of England.
 
